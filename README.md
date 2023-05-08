@@ -3,7 +3,7 @@
 ## 🧑‍💻 What I'm Currently Learning
 
 - JS
-- C#
+- Node
 - React
 
 ## 🐉 Hobbies Include
