@@ -9,5 +9,5 @@
 ## 🐉 Hobbies Include
 
 - 🧗 Rock Climbing
-- 🏃 Going on Runs
+- 🏃 Kayaking
 - 🚶 Hiking
