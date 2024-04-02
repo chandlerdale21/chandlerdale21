@@ -2,9 +2,9 @@
 
 ## 🧑‍💻 What I'm Currently Learning
 
-- JS
-- Node
-- React
+- Azure
+- .NET 
+- TS
 
 ## 🐉 Hobbies Include
 
